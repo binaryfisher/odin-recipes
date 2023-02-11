@@ -1,1 +1,1 @@
-# odin-recipes
+This is simple static website contains a index and serveral other pages. It's the first project of the odin project.
